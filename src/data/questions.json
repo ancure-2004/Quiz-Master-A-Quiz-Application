@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "explanation": "Paris is the capital and most populous city of France."
+    },
+    {
+      "id": 2,
+      "category": "Science",
+      "difficulty": "medium",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2,
+      "explanation": "Au comes from the Latin word 'aurum', meaning gold."
+    },
+    {
+      "id": 3,
+      "category": "History",
+      "difficulty": "medium",
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correctAnswer": 1,
+      "explanation": "World War II ended in 1945 with the surrender of Japan in September."
+    },
+    {
+      "id": 4,
+      "category": "Sports",
+      "difficulty": "easy",
+      "question": "How many players are on a basketball team on the court at one time?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "explanation": "Each basketball team has 5 players on the court at any given time."
+    },
+    {
+      "id": 5,
+      "category": "Geography",
+      "difficulty": "hard",
+      "question": "Which is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctAnswer": 1,
+      "explanation": "Vatican City is the smallest sovereign state in the world with an area of approximately 0.17 square miles."
+    },
+    {
+      "id": 6,
+      "category": "Technology",
+      "difficulty": "medium",
+      "question": "Who founded Microsoft?",
+      "options": ["Steve Jobs", "Bill Gates and Paul Allen", "Mark Zuckerberg", "Larry Page"],
+      "correctAnswer": 1,
+      "explanation": "Microsoft was founded by Bill Gates and Paul Allen in 1975."
+    },
+    {
+      "id": 7,
+      "category": "Literature",
+      "difficulty": "medium",
+      "question": "Who wrote the novel '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Kurt Vonnegut"],
+      "correctAnswer": 1,
+      "explanation": "George Orwell wrote the dystopian novel '1984', published in 1949."
+    },
+    {
+      "id": 8,
+      "category": "Science",
+      "difficulty": "easy",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
+      "correctAnswer": 1,
+      "explanation": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 mph."
+    },
+    {
+      "id": 9,
+      "category": "Movies",
+      "difficulty": "medium",
+      "question": "Which movie won the Academy Award for Best Picture in 2020?",
+      "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+      "correctAnswer": 2,
+      "explanation": "Parasite won the Academy Award for Best Picture in 2020, making it the first non-English language film to win."
+    },
+    {
+      "id": 10,
+      "category": "Mathematics",
+      "difficulty": "easy",
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "correctAnswer": 1,
+      "explanation": "15% of 200 is calculated as (15/100) × 200 = 30."
+    }
+  ]
+}

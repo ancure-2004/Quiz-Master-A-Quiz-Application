@@ -1,0 +1,18 @@
+{
+  "name": "QuizMaster - Challenge Your Knowledge",
+  "short_name": "QuizMaster",
+  "description": "Test your knowledge with beautifully animated quizzes across multiple categories",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0EA5E9",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait-primary",
+  "categories": ["education", "games", "entertainment"]
+}
